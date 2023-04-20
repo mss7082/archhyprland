@@ -4,3 +4,16 @@ filezilla/
 Thunar/
 pulse/
 yay/
+BraveSoftware/
+Ledger*
+btop/
+discord/
+ghc/
+gtk*
+mimeapps.list
+protonmail/
+qutebrowser/
+systemd/
+user-dirs.dirs
+user-dirs.locale
+history.txt
