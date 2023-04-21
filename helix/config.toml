@@ -1,9 +1,10 @@
-theme = "ayu_dark"
+theme = "adwaita-dark"
 
 [editor]
 line-number = "absolute"
 mouse = false
 auto-save = true
+auto-format = true
 bufferline = "multiple"
 
 [editor.cursor-shape]
@@ -12,7 +13,8 @@ normal = "block"
 select = "underline"
 
 [editor.lsp]
-display-messages = true
+display-messages = false
+display-inlay-hints = true
 
 [keys.insert]
 j = { j = "normal_mode" } # Maps `jk` to exit insert mode
